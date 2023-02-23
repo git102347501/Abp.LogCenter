@@ -1,0 +1,7 @@
+{
+  "modules": {
+    "Abp.LogCenter": {
+      "path": "Abp.LogCenter.abpmdl.json"
+    }
+  }
+}

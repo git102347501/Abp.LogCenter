@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <Import Project="..\..\common.props" />
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>Abp.LogCenter</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Volo.Abp.AspNetCore.Mvc" Version="7.0.1" />
+    <ProjectReference Include="..\Abp.LogCenter.Application.Contracts\Abp.LogCenter.Application.Contracts.csproj" />
+  </ItemGroup>
+
+</Project>

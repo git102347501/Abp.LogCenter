@@ -1,0 +1,111 @@
+{
+  "folders": {
+    "items": {
+      "src": {},
+      "test": {},
+      "host": {}
+    }
+  },
+  "packages": {
+    "Abp.LogCenter.Domain.Shared": {
+      "path": "src/Abp.LogCenter.Domain.Shared/Abp.LogCenter.Domain.Shared.abppkg.json",
+      "folder": "src"
+    },
+    "Abp.LogCenter.Domain": {
+      "path": "src/Abp.LogCenter.Domain/Abp.LogCenter.Domain.abppkg.json",
+      "folder": "src"
+    },
+    "Abp.LogCenter.Application.Contracts": {
+      "path": "src/Abp.LogCenter.Application.Contracts/Abp.LogCenter.Application.Contracts.abppkg.json",
+      "folder": "src"
+    },
+    "Abp.LogCenter.Application": {
+      "path": "src/Abp.LogCenter.Application/Abp.LogCenter.Application.abppkg.json",
+      "folder": "src"
+    },
+    "Abp.LogCenter.EntityFrameworkCore": {
+      "path": "src/Abp.LogCenter.EntityFrameworkCore/Abp.LogCenter.EntityFrameworkCore.abppkg.json",
+      "folder": "src"
+    },
+    "Abp.LogCenter.MongoDB": {
+      "path": "src/Abp.LogCenter.MongoDB/Abp.LogCenter.MongoDB.abppkg.json",
+      "folder": "src"
+    },
+    "Abp.LogCenter.HttpApi": {
+      "path": "src/Abp.LogCenter.HttpApi/Abp.LogCenter.HttpApi.abppkg.json",
+      "folder": "src"
+    },
+    "Abp.LogCenter.HttpApi.Client": {
+      "path": "src/Abp.LogCenter.HttpApi.Client/Abp.LogCenter.HttpApi.Client.abppkg.json",
+      "folder": "src"
+    },
+    "Abp.LogCenter.TestBase": {
+      "path": "test/Abp.LogCenter.TestBase/Abp.LogCenter.TestBase.abppkg.json",
+      "folder": "test"
+    },
+    "Abp.LogCenter.EntityFrameworkCore.Tests": {
+      "path": "test/Abp.LogCenter.EntityFrameworkCore.Tests/Abp.LogCenter.EntityFrameworkCore.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "Abp.LogCenter.MongoDB.Tests": {
+      "path": "test/Abp.LogCenter.MongoDB.Tests/Abp.LogCenter.MongoDB.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "Abp.LogCenter.Domain.Tests": {
+      "path": "test/Abp.LogCenter.Domain.Tests/Abp.LogCenter.Domain.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "Abp.LogCenter.Application.Tests": {
+      "path": "test/Abp.LogCenter.Application.Tests/Abp.LogCenter.Application.Tests.abppkg.json",
+      "folder": "test"
+    },
+    "Abp.LogCenter.HttpApi.Host": {
+      "path": "host/Abp.LogCenter.HttpApi.Host/Abp.LogCenter.HttpApi.Host.abppkg.json",
+      "folder": "host"
+    },
+    "Abp.LogCenter.Web": {
+      "path": "src/Abp.LogCenter.Web/Abp.LogCenter.Web.abppkg.json",
+      "folder": "src"
+    },
+    "Abp.LogCenter.HttpApi.Client.ConsoleTestApp": {
+      "path": "test/Abp.LogCenter.HttpApi.Client.ConsoleTestApp/Abp.LogCenter.HttpApi.Client.ConsoleTestApp.abppkg.json",
+      "folder": "test"
+    },
+    "Abp.LogCenter.Web.Host": {
+      "path": "host/Abp.LogCenter.Web.Host/Abp.LogCenter.Web.Host.abppkg.json",
+      "folder": "host"
+    },
+    "Abp.LogCenter.AuthServer": {
+      "path": "host/Abp.LogCenter.AuthServer/Abp.LogCenter.AuthServer.abppkg.json",
+      "folder": "host"
+    },
+    "Abp.LogCenter.Host.Shared": {
+      "path": "host/Abp.LogCenter.Host.Shared/Abp.LogCenter.Host.Shared.abppkg.json",
+      "folder": "host"
+    },
+    "Abp.LogCenter.Web.Unified": {
+      "path": "host/Abp.LogCenter.Web.Unified/Abp.LogCenter.Web.Unified.abppkg.json",
+      "folder": "host"
+    },
+    "Abp.LogCenter.Blazor": {
+      "path": "src/Abp.LogCenter.Blazor/Abp.LogCenter.Blazor.abppkg.json",
+      "folder": "src"
+    },
+    "Abp.LogCenter.Blazor.Host": {
+      "path": "host/Abp.LogCenter.Blazor.Host/Abp.LogCenter.Blazor.Host.abppkg.json",
+      "folder": "host"
+    },
+    "Abp.LogCenter.Blazor.Server": {
+      "path": "src/Abp.LogCenter.Blazor.Server/Abp.LogCenter.Blazor.Server.abppkg.json",
+      "folder": "src"
+    },
+    "Abp.LogCenter.Blazor.WebAssembly": {
+      "path": "src/Abp.LogCenter.Blazor.WebAssembly/Abp.LogCenter.Blazor.WebAssembly.abppkg.json",
+      "folder": "src"
+    },
+    "Abp.LogCenter.Blazor.Server.Host": {
+      "path": "host/Abp.LogCenter.Blazor.Server.Host/Abp.LogCenter.Blazor.Server.Host.abppkg.json",
+      "folder": "host"
+    }
+  }
+}

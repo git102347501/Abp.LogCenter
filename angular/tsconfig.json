@@ -1,0 +1,15 @@
+{
+  "extends": "./tsconfig.prod.json",
+  "compilerOptions": {
+    "paths": {
+      "@abp/log-center": [
+        "projects/log-center/src/public-api.ts"
+      ],
+      "@abp/log-center/config": [
+        "projects/log-center/config/src/public-api.ts"
+      ],
+      "@proxy": ["projects/log-center/src/lib/proxy/index.ts"],
+      "@proxy/*": ["projects/log-center/src/lib/proxy/*"]
+    }
+  }
+}
